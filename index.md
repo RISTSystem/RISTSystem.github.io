@@ -38,10 +38,10 @@ when evaluated using 108 geographically distributed clients.
 |SpeedTest.net|[https://speedtest.net](https://speedtest.net)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-SpeedTest.net/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-SpeedTest.net/)|
 |Xfinity|[http://speedtest.xfinity.com/](http://speedtest.xfinity.com/)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-XFinity/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-XFinity/)|
 
-### Server Side of All the Systems
+### Server Side of All Systems
 
 |STS|Server Implementation|
 |------|------|
-|All the STSes|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/serverScripts/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/serverScripts/)|
+|All STSes|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/serverScripts/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/serverScripts/)|
 
 
