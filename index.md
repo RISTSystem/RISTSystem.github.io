@@ -21,13 +21,13 @@ achieves similar performance compared to the production
 system of SpeedTest that employs about 8,000 test servers
 when evaluated using 108 geographically distributed clients.
 <br/>
-### RIST System We Built
+### Client Side of RIST System We Built
 
 |STS|Implementation|
 |------|------|
 |RIST|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-RIST/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-RIST/)|
 
-### Other Systems We Implemented
+### Client Sides of Other Systems We Implemented
 
 |STS|Website|Our Implementation|
 |------|------|------|
@@ -38,9 +38,10 @@ when evaluated using 108 geographically distributed clients.
 |SpeedTest.net|[https://speedtest.net](https://speedtest.net)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-SpeedTest.net/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-SpeedTest.net/)|
 |Xfinity|[http://speedtest.xfinity.com/](http://speedtest.xfinity.com/)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-XFinity/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-XFinity/)|
 
-<br/>
-And the clients depend on some server scripts here:<br/>
-[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/serverScripts/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/serverScripts/)
-<br/>
+### Server Side of All the Systems
+
+|STS|Server Implementation|
+|------|------|
+|All Systems|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/serverScripts/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/serverScripts/)|
 
 
