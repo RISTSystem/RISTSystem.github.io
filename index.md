@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# RIST: Robust Internet Speed Test System for End Users
+### Introduction
+Web-based speed test systems (STSes) such as SpeedTest.net
+are extremely popular among Interent users. In this paper,
+we conduct to our knowledge a first comprehensive study of
+commercial STSes. Using a global-scale testbed consisting
+of 108 VMs deployed in 20 countries, we conduct in-depth
+characterizations of popular STSes, and find their reported
+speed is oftentimes inconsistent and inaccurate.We also carefully
+reverse-engineer their speed test logic, whose many
+design decisions are found to be ad-hoc and non-adaptive.
+Motivated by the above observations, we design and implement
+RIST, a new STS solution that innovates web-based
+STS through several new techniques including big data analytics,
+intellignet sampling, and careful network resource
+management. Real-world testing results demonstrate that
+RIST significantly outperforms existing STSes in terms of
+test accuracy and consistency under the same server pool
+size. On the other hand, using only 30 test servers, RIST
+achieves similar performance compared to the production
+system of SpeedTest that employs about 8,000 test servers
+when evaluated using 108 geographically distributed clients.
+<br/>
+### RIST System We Built
 
-You can use the [editor on GitHub](https://github.com/RISTSystem/RISTSystem.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+|STS|Implementation|
+|------|------|
+|RIST|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-RIST/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-RIST/)|
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Other Systems We Implemented
 
-### Markdown
+|STS|Website|Our Implementation|
+|------|------|------|
+|Speedof.me|[https://speedof.me](https://speedof.me/)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-speedof.me/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-speedof.me/)|
+|BandwidthPlace.com|[https://www.bandwidthplace.com](https://www.bandwidthplace.com/)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-bandwidthplace/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-bandwidthplace/)|
+|SourceForge SpeedTest|[https://sourceforge.net/speedtest](https://sourceforge.net/speedtest/)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-sourceforge/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-sourceforge/)|
+|Fast.com|[https://fast.com](https://fast.com)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-fast.com/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-fast.com/)|
+|SpeedTest.net|[https://speedtest.net](https://speedtest.net)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-speedtest/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-speedtest/)|
+|Xfinity|[http://speedtest.xfinity.com/](http://speedtest.xfinity.com/)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-XFinity/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-XFinity/)|
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br/>
+And the clients depend on some server scripts here:<br/>
+[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/serverScripts/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/serverScripts/)
+<br/>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RISTSystem/RISTSystem.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
