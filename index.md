@@ -42,6 +42,6 @@ when evaluated using 108 geographically distributed clients.
 
 |STS|Server Implementation|
 |------|------|
-|All STSes|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/serverScripts/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/serverScripts/)|
+|All the STSes|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/serverScripts/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/serverScripts/)|
 
 
