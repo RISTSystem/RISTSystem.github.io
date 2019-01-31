@@ -33,7 +33,7 @@ when evaluated using 108 geographically distributed clients.
 |------|------|------|
 |Speedof.me|[https://speedof.me](https://speedof.me/)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-Speedof.me/](https://github.com/RISTSystem/RISTsystem.github.io/tree/master/client-Speedof.me/)|
 |BandwidthPlace.com|[https://www.bandwidthplace.com](https://www.bandwidthplace.com/)|[https://github.com/RISTSystem/RISTsystem.github.io/tree/master/client-BandwidthPlace](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-BandwidthPlace/)|
-|SourceForge SpeedTest|[https://sourceforge.net/speedtest](https://sourceforge.net/speedtest/)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-SourceForge/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-sourceforge/)|
+|SourceForge SpeedTest|[https://sourceforge.net/speedtest](https://sourceforge.net/speedtest/)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-SourceForge/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-SourceForge/)|
 |Fast.com|[https://fast.com](https://fast.com)|[https://github.com/RISTSystem/RISTsystem.github.io/tree/master/client-Fast.com/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-Fast.com/)|
 |SpeedTest.net|[https://speedtest.net](https://speedtest.net)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-SpeedTest/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-SpeedTest/)|
 |Xfinity|[http://speedtest.xfinity.com/](http://speedtest.xfinity.com/)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-XFinity/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-XFinity/)|
