@@ -1,7 +1,7 @@
 # RIST: Robust Internet Speed Test System for End Users
 ### Introduction
 Web-based speed test systems (STSes) such as SpeedTest.net
-are extremely popular among Interent users. In this paper,
+are extremely popular among Internet users. In this paper,
 we conduct to our knowledge a first comprehensive study of
 commercial STSes. Using a global-scale testbed consisting
 of 108 VMs deployed in 20 countries, we conduct in-depth
@@ -36,7 +36,7 @@ when evaluated using 108 geographically distributed clients.
 |SourceForge SpeedTest|[https://sourceforge.net/speedtest](https://sourceforge.net/speedtest/)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-SourceForge/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-SourceForge/)|
 |Fast.com|[https://fast.com](https://fast.com)|[https://github.com/RISTSystem/RISTsystem.github.io/tree/master/client-Fast.com/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-Fast.com/)|
 |SpeedTest.net|[https://speedtest.net](https://speedtest.net)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-SpeedTest.net/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-SpeedTest.net/)|
-|Xfinity|[http://speedtest.xfinity.com/](http://speedtest.xfinity.com/)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-XFinity/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-XFinity/)|
+|Xfinity|[http://speedtest.xfinity.com/](http://speedtest.xfinity.com)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-XFinity/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-XFinity/)|
 
 ### Server Side of All Systems
 
