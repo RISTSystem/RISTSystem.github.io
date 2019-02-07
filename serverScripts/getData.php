@@ -12,8 +12,8 @@ $time=date('Y-m-d H:i:s');
 if($sysid==0){
 	$ping=$_POST['ping'];
 	$sip=$_POST['sip'];
-	$XFresult=$_POST['XFresult'];
-	$sql ="INSERT INTO data0(uip,sip,ping,XFresult,time) VALUES('$uip','$sip','$ping',$XFresult,'$time')";
+	$XFresult=$_POST['ATTresult'];
+	$sql ="INSERT INTO data0(uip,sip,ping,ATTresult,time) VALUES('$uip','$sip','$ping',$ATTresult,'$time')";
 	$result = $conn->query($sql);
 }else if($sysid==1){
 	$ping=$_POST['ping'];
