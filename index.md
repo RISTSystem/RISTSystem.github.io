@@ -26,6 +26,10 @@ when evaluated using 108 geographically distributed clients.
 <style>
 table th:nth-of-type(1) {
     width: 220px;
+    text-align: center;
+}
+table th:nth-of-type(2) {
+    width: 400px;
 }
 table th:nth-of-type(3) {
     width: 400px;
