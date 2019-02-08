@@ -29,16 +29,6 @@ table th:nth-of-type(1) {
     max-width:200px;
     min-width:200px;
 }
-table th:nth-of-type(2) {
-    width: 200px;
-    min-width:200px;
-    max-width:200px;
-}
-table th:nth-of-type(3) {
-    width: 200px;
-    min-width:200px;
-    max-width:200px;
-}
 </style>
 
 |STS|Implementation|
@@ -49,7 +39,7 @@ table th:nth-of-type(3) {
 
 |STS|Website|Our Implementation|
 |:----:|------|------|
-|Speedof.me|[https://speedof.me](https://speedof.me/)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-Speedof.me/](https://github.com/RISTSystem/RISTsystem.github.io/tree/master/client-Speedof.me/)|
+|Speedof.me|[https://speedof.me](https://speedof.me/)|[https://github.com/RISTSystem/RISTSystem.github.io<br/>/tree/master/client-Speedof.me/](https://github.com/RISTSystem/RISTsystem.github.io/tree/master/client-Speedof.me/)|
 |BandwidthPlace.com|[https://www.bandwidthplace.com](https://www.bandwidthplace.com/)|[https://github.com/RISTSystem/RISTsystem.github.io/tree/master/client-BandwidthPlace](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-BandwidthPlace/)|
 |SourceForge SpeedTest|[https://sourceforge.net/speedtest](https://sourceforge.net/speedtest/)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-SourceForge/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-SourceForge/)|
 |AT&T SpeedTest|[http://speedtest.att.com/speedtest](http://speedtest.att.com/speedtest/)|[https://github.com/RISTSystem/RISTsystem.github.io/tree/master/client-ATTSpeedTest/](https://github.com/RISTSystem/RISTsystem.github.io/tree/master/client-ATTSpeedTest/)|
