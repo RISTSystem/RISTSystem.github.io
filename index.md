@@ -25,7 +25,10 @@ when evaluated using 108 geographically distributed clients.
 
 <style>
 table th:first-of-type {
-    width: 100px;
+    width: 220px;
+}
+table th:third-of-type {
+    width: 400px;
 }
 </style>
 
