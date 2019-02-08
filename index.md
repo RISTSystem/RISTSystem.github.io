@@ -23,6 +23,12 @@ when evaluated using 108 geographically distributed clients.
 <br/>
 ### Client Side of RIST System We Built
 
+<style>
+table th:first-of-type {
+    width: 100px;
+}
+</style>
+
 |STS|Implementation|
 |------|------|
 |RIST|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-RIST/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-RIST/)|
