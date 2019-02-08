@@ -23,27 +23,23 @@ when evaluated using 108 geographically distributed clients.
 <br/>
 ### Client Side of RIST System We Built
 
+
+|STS|Implementation|
+|:----:|------|
+|RIST|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-RIST/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-RIST/)|
+
+### Client Sides of Other Systems We Implemented
 <style>
 table th:nth-of-type(1) {
-    width: 220px;
-    text-align: center;
-}
-table th:nth-of-type(2) {
-    width: 400px;
+    width: 200px;
 }
 table th:nth-of-type(3) {
     width: 400px;
 }
 </style>
 
-|STS|Implementation|
-|------|------|
-|RIST|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-RIST/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-RIST/)|
-
-### Client Sides of Other Systems We Implemented
-
 |STS|Website|Our Implementation|
-|------|------|------|
+|:----:|------|------|
 |Speedof.me|[https://speedof.me](https://speedof.me/)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-Speedof.me/](https://github.com/RISTSystem/RISTsystem.github.io/tree/master/client-Speedof.me/)|
 |BandwidthPlace.com|[https://www.bandwidthplace.com](https://www.bandwidthplace.com/)|[https://github.com/RISTSystem/RISTsystem.github.io/tree/master/client-BandwidthPlace](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-BandwidthPlace/)|
 |SourceForge SpeedTest|[https://sourceforge.net/speedtest](https://sourceforge.net/speedtest/)|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-SourceForge/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-SourceForge/)|
@@ -55,7 +51,7 @@ table th:nth-of-type(3) {
 ### Server Side of All Systems
 
 |STS|Server Implementation|
-|------|------|
+|:----:|------|
 |All STSes|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/serverScripts/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/serverScripts/)|
 
 
