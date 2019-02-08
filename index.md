@@ -23,20 +23,23 @@ when evaluated using 108 geographically distributed clients.
 <br/>
 ### Client Side of RIST System We Built
 
+<style>
+table th:nth-of-type(1) {
+    width: 200px;
+}
+table th:nth-of-type(2) {
+    width: 200px;
+}
+table th:nth-of-type(3) {
+    width: 200px;
+}
+</style>
 
 |STS|Implementation|
 |:----:|------|
 |RIST|[https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-RIST/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-RIST/)|
 
 ### Client Sides of Other Systems We Implemented
-<style>
-table th:nth-of-type(1) {
-    width: 200px;
-}
-table th:nth-of-type(3) {
-    width: 400px;
-}
-</style>
 
 |STS|Website|Our Implementation|
 |:----:|------|------|
