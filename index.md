@@ -24,10 +24,10 @@ when evaluated using 108 geographically distributed clients.
 ### Client Side of RIST System We Built
 
 <style>
-table th:first-of-type {
+table th:nth-of-type(1) {
     width: 220px;
 }
-table th:third-of-type {
+table th:nth-of-type(3) {
     width: 400px;
 }
 </style>
