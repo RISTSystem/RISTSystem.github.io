@@ -44,7 +44,7 @@ table th:nth-of-type(1) {
 |SFtest|[https://sourceforge.net/speedtest](https://sourceforge.net/speedtest/)|[https://github.com/RISTSystem/RISTSystem.github.io<br/>/tree/master/client-SourceForge/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-SourceForge/)|
 |ATTtest|[http://speedtest.att.com/speedtest](http://speedtest.att.com/speedtest/)|[https://github.com/RISTSystem/RISTsystem.github.io<br/>/tree/master/client-ATTSpeedTest/](https://github.com/RISTSystem/RISTsystem.github.io/tree/master/client-ATTSpeedTest/)|
 |Xfinity|[http://speedtest.xfinity.com/](http://speedtest.xfinity.com)|[https://github.com/RISTSystem/RISTSystem.github.io<br/>/tree/master/client-XFinity/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-XFinity/)|
-|Fast|[https://fast.com](https://fast.com)|[https://github.com/RISTSystem/RISTsystem.github.io<br/>/tree/master/client-Fast.com/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-Fast.com/)|
+|FAST|[https://fast.com](https://fast.com)|[https://github.com/RISTSystem/RISTsystem.github.io<br/>/tree/master/client-Fast.com/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-Fast.com/)|
 |SpeedTest|[https://speedtest.net](https://speedtest.net)|[https://github.com/RISTSystem/RISTSystem.github.io<br/>/tree/master/client-SpeedTest.net/](https://github.com/RISTSystem/RISTSystem.github.io/tree/master/client-SpeedTest.net/)|
 
 ### Server Side of All Systems
