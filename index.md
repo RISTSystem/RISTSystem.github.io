@@ -31,10 +31,12 @@ table th:nth-of-type(1) {
 }
 table th:nth-of-type(2) {
     width: 200px;
+    min-width:200px;
     max-width:200px;
 }
 table th:nth-of-type(3) {
     width: 200px;
+    min-width:200px;
     max-width:200px;
 }
 </style>
